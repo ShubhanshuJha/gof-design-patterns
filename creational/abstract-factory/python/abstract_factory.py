@@ -1,7 +1,6 @@
 """Abstract Factory pattern demonstrated with compatible UI product families."""
 
 from __future__ import annotations
-
 from abc import ABC, abstractmethod
 
 

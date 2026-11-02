@@ -117,4 +117,3 @@ class Application:
 if __name__ == "__main__":
     for factory in (LightUiFactory(), DarkUiFactory()):
         print(Application(factory).render())
-

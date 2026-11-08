@@ -4,7 +4,7 @@ Structural design patterns explain how classes and objects can be composed to fo
 
 ## Learning objectives
 
-By completing this category, you should be able to:
+By completing this category, you should be able to understand how to:
 
 - Combine objects without creating rigid inheritance hierarchies.
 - Adapt incompatible interfaces safely.
